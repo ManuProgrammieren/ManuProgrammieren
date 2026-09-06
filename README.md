@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Manuel, a Software engineering Student in Germany/Austria.
+
+I love it to work in a team and split the work together.
+
+I have done some projects like building an outdoor management system during my studies.
+
+For now there are a few private repos. ...this will change in the future.
+
+
+Fun facts
+
+    I like capucino and energy drinks
+    I like watching movies and series
+    Hobbies: mountainbiking, skiing, volunteer fire department
