@@ -28,4 +28,4 @@ Fun facts:
 
 - I like capucino and energy drinks
 - I like watching movies and series
-- Hobbies: mountainbiking, skiing, volunteer fire department
+- Hobbies: mountainbiking, skiing, volunteer fire department, riding motorcycle
