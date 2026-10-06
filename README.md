@@ -18,7 +18,7 @@ I'm Manuel, a Software engineering Student in Germany/Austria.
 
 I love it to work in a team and split the work together.
 
-I have done some projects like building an outdoor management system during my studies.
+I have done some projects like building an outdoor event-management system during my studies.
 
 For now there are a few private repos. ...this will change in the future.
 
